@@ -1,5 +1,7 @@
 # Major League of Curling Website
 
+![Major League Curling](assets/hero-screenshot-desktop.png)
+
 Portfolio case study of a live sports website built and maintained for a competitive curling league.  
 The project demonstrates **product ownership, web delivery, and community engagement** using a fully **zero-cost technology stack**.
 
