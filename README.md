@@ -174,15 +174,6 @@ This required balancing **cost, usability, and maintainability**, similar to rea
 
 ---
 
-## Demo
-
-A short walkthrough of the website can be viewed here:
-
-**Video walkthrough:**  
-`Insert video link here`
-
----
-
 ## Lessons Learned
 
 Maintaining a live sports website highlighted several important design considerations:
