@@ -1,5 +1,7 @@
 # Major League of Curling Website
 
+Live Site: https://www.majorleaguecurling.com/
+
 ![Major League Curling](assets/hero-screenshot-desktop.png)
 
 Portfolio case study of a live sports website built and maintained for a competitive curling league.  
@@ -132,23 +134,43 @@ These results demonstrate the impact of **consistent digital promotion combined 
 
 ---
 
+## System Design & Constraints
+
+This project was intentionally built using a **zero-cost stack** to meet league budget constraints, while still delivering a reliable and engaging user experience.
+
+### Key Considerations
+
+- Using free plugins (**Elementor**, **SportsPress**) to replicate premium functionality  
+- Structuring pages to support **frequent weekly updates**  
+- Ensuring fast load times despite plugin limitations  
+- Designing for both **desktop and mobile users**  
+- Maintaining a clear navigation structure for non-technical users  
+
+This required balancing **cost, usability, and maintainability**, similar to real-world product constraints.
+
+---
 ## Screenshots
 
-### Homepage
+### Desktop Experience
 
-![Homepage](assets/homepage-desktop.png)
+<img src="assets/hero-screenshot-desktop.png" width="900">
 
-### League Schedule
+<img src="assets/desktop-schedule.png" width="900">
 
-![Schedule](assets/schedule-page.png)
+<img src="assets/desktop-teams.png" width="900">
 
-### Teams Page
+<img src="assets/desktop-history.png" width="900">
 
-![Teams](assets/teams-page.png)
+<img src="assets/desktop-records.png" width="900">
 
-### Mobile View
+---
 
-![Mobile](assets/mobile-homepage.png)
+### Mobile Experience
+
+<img src="assets/mobile-schedule.png" width="300">
+<img src="assets/mobile-teams.png" width="300">
+<img src="assets/mobile-history.png" width="300">
+<img src="assets/mobile-records.png" width="300">
 
 ---
 
@@ -194,3 +216,12 @@ This repository documents the structure, design decisions, and outcomes of the M
 - Community engagement strategy
 - Responsive design considerations
 - Real-world deployment and maintenance of a live website
+
+---
+
+## Repository Structure
+
+```bash
+assets/     # Screenshots of the website (desktop + mobile)
+docs/       # Supporting documentation (architecture, decisions)
+README.md   # Project overview and case study
