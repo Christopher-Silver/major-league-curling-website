@@ -180,24 +180,16 @@ This required balancing **cost, usability, and maintainability**, similar to rea
 <sub>League records and performance benchmarks across seasons.</sub>
 ### Mobile Experience
 
+<h4 align="center">Schedule &nbsp;&nbsp;&nbsp;&nbsp; Teams</h4>
 <p align="center">
-  <strong>Schedule</strong><br>
-  <img src="assets/mobile-schedule.png" width="250">
+  <img src="assets/mobile-schedule.png" width="220">
+  <img src="assets/mobile-teams.png" width="220">
 </p>
 
+<h4 align="center">History &nbsp;&nbsp;&nbsp;&nbsp; Records</h4>
 <p align="center">
-  <strong>Teams</strong><br>
-  <img src="assets/mobile-teams.png" width="250">
-</p>
-
-<p align="center">
-  <strong>History</strong><br>
-  <img src="assets/mobile-history.png" width="250">
-</p>
-
-<p align="center">
-  <strong>Records</strong><br>
-  <img src="assets/mobile-records.png" width="250">
+  <img src="assets/mobile-history.png" width="220">
+  <img src="assets/mobile-records.png" width="220">
 </p>
 
 <p align="center">
