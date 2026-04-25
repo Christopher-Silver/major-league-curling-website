@@ -149,28 +149,69 @@ This project was intentionally built using a **zero-cost stack** to meet league 
 This required balancing **cost, usability, and maintainability**, similar to real-world product constraints.
 
 ---
+
 ## Screenshots
 
 ### Desktop Experience
 
+#### Homepage Overview
 <img src="assets/hero-screenshot-desktop.png" width="900">
 
-<img src="assets/desktop-schedule.png" width="900">
-
-<img src="assets/desktop-teams.png" width="900">
-
-<img src="assets/desktop-history.png" width="900">
-
-<img src="assets/desktop-records.png" width="900">
+<sub>Main landing page providing quick access to standings, schedule, and league information.</sub>
 
 ---
 
+#### Schedule & Matchups
+<img src="assets/desktop-schedule.png" width="900">
+
+<sub>Weekly matchups and schedule used by players and spectators to track upcoming games.</sub>
+
+---
+
+#### Teams & Rosters
+<img src="assets/desktop-teams.png" width="900">
+
+<sub>Team pages displaying rosters and league participants.</sub>
+
+---
+
+#### League History
+<img src="assets/desktop-history.png" width="900">
+
+<sub>Structured historical records preserving past seasons and results.</sub>
+
+---
+
+#### Records & Statistics
+<img src="assets/desktop-records.png" width="900">
+
+<sub>League records and performance benchmarks across seasons.</sub>
+
 ### Mobile Experience
 
-<img src="assets/mobile-schedule.png" width="300">
-<img src="assets/mobile-teams.png" width="300">
-<img src="assets/mobile-history.png" width="300">
-<img src="assets/mobile-records.png" width="300">
+#### Mobile Schedule
+<p align="center">
+  <img src="assets/mobile-schedule.png" width="300">
+</p>
+
+#### Mobile Teams
+<p align="center">
+  <img src="assets/mobile-teams.png" width="300">
+</p>
+
+#### Mobile History
+<p align="center">
+  <img src="assets/mobile-history.png" width="300">
+</p>
+
+#### Mobile Records
+<p align="center">
+  <img src="assets/mobile-records.png" width="300">
+</p>
+
+<p align="center">
+  <sub>Responsive design ensures accessibility and usability during live league play.</sub>
+</p>
 
 ---
 
