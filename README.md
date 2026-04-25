@@ -124,9 +124,9 @@ The coordinated website and social media strategy produced **significant engagem
 
 | Metric | 2024–2025 Season | 2025–2026 Season | Increase |
 |------|------|------|------|
-| Views | 10,000 | 190,700 | **+1807%** |
+| Views | 10,000 | 190,700 | **+1821%** |
 | Content Interactions | 117 | 3,100 | **+2550%** |
-| Followers Gained | 18 | 96 | **+433%** |
+| Followers Gained | 18 | 96 | **+450%** |
 
 These results demonstrate the impact of **consistent digital promotion combined with a centralized online platform.**
 
