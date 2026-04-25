@@ -150,6 +150,14 @@ This required balancing **cost, usability, and maintainability**, similar to rea
 
 ---
 
+## System Architecture
+
+<img src="assets/architecture-diagram.png" width="1000">
+
+<sub>High-level architecture and workflow of the Major League of Curling website, including content updates and engagement loop.</sub>
+
+---
+
 ## Screenshots
 
 ### Desktop Experience
