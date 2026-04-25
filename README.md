@@ -159,54 +159,45 @@ This required balancing **cost, usability, and maintainability**, similar to rea
 
 <sub>Main landing page providing quick access to standings, schedule, and league information.</sub>
 
----
-
 #### Schedule & Matchups
 <img src="assets/desktop-schedule.png" width="900">
 
 <sub>Weekly matchups and schedule used by players and spectators to track upcoming games.</sub>
-
----
 
 #### Teams & Rosters
 <img src="assets/desktop-teams.png" width="900">
 
 <sub>Team pages displaying rosters and league participants.</sub>
 
----
-
 #### League History
 <img src="assets/desktop-history.png" width="900">
 
 <sub>Structured historical records preserving past seasons and results.</sub>
 
----
-
 #### Records & Statistics
 <img src="assets/desktop-records.png" width="900">
 
 <sub>League records and performance benchmarks across seasons.</sub>
-
 ### Mobile Experience
 
-#### Mobile Schedule
 <p align="center">
-  <img src="assets/mobile-schedule.png" width="300">
+  <strong>Schedule</strong><br>
+  <img src="assets/mobile-schedule.png" width="250">
 </p>
 
-#### Mobile Teams
 <p align="center">
-  <img src="assets/mobile-teams.png" width="300">
+  <strong>Teams</strong><br>
+  <img src="assets/mobile-teams.png" width="250">
 </p>
 
-#### Mobile History
 <p align="center">
-  <img src="assets/mobile-history.png" width="300">
+  <strong>History</strong><br>
+  <img src="assets/mobile-history.png" width="250">
 </p>
 
-#### Mobile Records
 <p align="center">
-  <img src="assets/mobile-records.png" width="300">
+  <strong>Records</strong><br>
+  <img src="assets/mobile-records.png" width="250">
 </p>
 
 <p align="center">
